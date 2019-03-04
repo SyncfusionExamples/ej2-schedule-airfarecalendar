@@ -1,6 +1,6 @@
 # Designing Airfare calendar using Essential JS2 Scheduler
 
-This application has been created by making use of the [quick start](https://github.com/syncfusion/ej2-quickstart.git) project.
+The Airfare Calendar example has been created by making use of our [quick start](https://github.com/syncfusion/ej2-quickstart.git) project.
 
 ## How to run this application?
 
